@@ -5,7 +5,7 @@ This is a solution to the [News Homepage challenge](https://www.frontendmentor.i
 ## Live [Site](https://rdz-news-homepage.netlify.app/)
 
 <img width="625" alt="image" src="https://github.com/user-attachments/assets/37ccf97b-34d4-4add-ba81-cef4bf388cd2" />
-![image](https://github.com/user-attachments/assets/c9f7815b-55c9-4eb6-8c89-65e6a75357a6)
+![image](https://github.com/user-attachments/assets/208671c8-adbe-4d06-bb3e-7c3155889f98)
 
 
 ### Users should be able to:
