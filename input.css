@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Inter";
+  src: url("assets/fonts/Inter-VariableFont_slnt,wght.ttf");
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  --font-inter: "Inter";
+
+  --breakpoint-xs: 500px;
+  --color-navy-950: #00001a;
+  --color-navy-600: #5e607a;
+  --color-gold-400: #e9aa52;
+}
+
+@layer utilities {
+  .txt-1 {
+    @apply font-extrabold tracking-normal leading-none;
+    font-size: clamp(2.5rem, 2.1479rem + 1.5023vw, 3.5rem);
+  }
+}
+
+@utility my-container {
+  @apply mx-auto w-[min(90%,70rem)];
+}
